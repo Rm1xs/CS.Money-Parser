@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Универ\\CloudParser\\CloudParser\\CloudParser.csproj": {}
+    "C:\\Users\\neket\\Desktop\\CS.Money Parser\\skins-parser\\CloudParser.csproj": {}
   },
   "projects": {
-    "C:\\Универ\\CloudParser\\CloudParser\\CloudParser.csproj": {
+    "C:\\Users\\neket\\Desktop\\CS.Money Parser\\skins-parser\\CloudParser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Универ\\CloudParser\\CloudParser\\CloudParser.csproj",
+        "projectUniqueName": "C:\\Users\\neket\\Desktop\\CS.Money Parser\\skins-parser\\CloudParser.csproj",
         "projectName": "CloudParser",
-        "projectPath": "C:\\Универ\\CloudParser\\CloudParser\\CloudParser.csproj",
-        "packagesPath": "C:\\Users\\Никита\\.nuget\\packages\\",
-        "outputPath": "C:\\Универ\\CloudParser\\CloudParser\\obj\\",
+        "projectPath": "C:\\Users\\neket\\Desktop\\CS.Money Parser\\skins-parser\\CloudParser.csproj",
+        "packagesPath": "C:\\Users\\neket\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\neket\\Desktop\\CS.Money Parser\\skins-parser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Никита\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\neket\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
