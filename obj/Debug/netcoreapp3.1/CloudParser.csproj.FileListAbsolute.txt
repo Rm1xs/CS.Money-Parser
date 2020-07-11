@@ -448,9 +448,6 @@ C:\Users\neket\Desktop\CS.Money Parser\skins-parser\bin\Debug\netcoreapp3.1\runt
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.csprojAssemblyReference.cache
-C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.csproj.CoreCompileInputs.cache
-C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.RazorAssemblyInfo.cache
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.RazorAssemblyInfo.cs
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.AssemblyInfoInputs.cache
@@ -479,3 +476,7 @@ C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\stat
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.dll
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.pdb
 C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.genruntimeconfig.cache
+C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.csproj.CoreCompileInputs.cache
+C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\CloudParser.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\neket\Desktop\CS.Money Parser\skins-parser\obj\Debug\netcoreapp3.1\Razor\Views\Home\Setting.cshtml.g.cs

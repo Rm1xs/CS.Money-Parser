@@ -21,6 +21,14 @@ namespace CloudParser.Controllers
         {
             return View();
         }
+        public IActionResult Setting()
+        {
+            return View();
+        }
+        public IActionResult FavItem()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

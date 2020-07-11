@@ -7,6 +7,14 @@
     <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
     <script src="https://use.fontawesome.com/3a2997bba1.js"></script>
     <link href="~/css/csm.css" rel="stylesheet" />
+    <style>
+        iframe {
+            display: block; /* iframes are inline by default */
+            border: none; /* Reset default border */
+            height: 100vh; /* Viewport-relative units */
+            width: 100vw;
+        }
+    </style>
 </head>
 <body class="sidebar-is-reduced">
     <header class="l-header">
@@ -143,7 +151,7 @@
             </script>
         </div>
         <div role="tabpanel" class="tab-pane" id="tab2">
-
+            <iframe src="@Url.Action("Setting", "Home")"></iframe>
         </div>
         <div role="tabpanel" class="tab-pane" id="tab3">
             Занятие ардритов с планеты Энтеропия.
